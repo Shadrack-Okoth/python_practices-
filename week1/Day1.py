@@ -18,7 +18,7 @@ def myfunc():
     y="potato"
     print("Have eaten "+ y)
 myfunc()
-#type() function - checks the datatype
+#type() function - checks the datatype of the variable 
 x="potato"
 print(type(x))
 #setting specific data type 
