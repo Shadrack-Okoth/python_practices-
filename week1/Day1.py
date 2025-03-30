@@ -52,7 +52,7 @@ print(a.upper())
 #replace string 
 print(a.replace("b","c"))
 print(txt.split(","))
-#f string format 
+#f string format - used to concate string and numbers 
 t=4
 m=7
 txt1=f"T + M is {t+m}"
